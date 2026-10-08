@@ -5,7 +5,7 @@ function Navbar() {
   return (
     <div className='user'>
 
-      <h1 className='username'>kunal dhumal</h1>
+      <h1 className='username'>Kunal Dhumal</h1>
 
       <nav className='navbar'>
 
